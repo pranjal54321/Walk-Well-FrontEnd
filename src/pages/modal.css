@@ -1,0 +1,27 @@
+.modal-dialog {
+    max-width: 83%;
+}
+.products{
+    margin: 10px;
+    width: 350px;
+}
+.prod-img{
+    height: 300px;
+    width: auto;
+    padding: 2px 40px;
+}
+.quantBtn{
+    padding: 10px;
+}
+
+#button-pos{
+   
+    margin-bottom: 570px;
+    margin-left: 980px;
+}
+
+#Admin-dashboard{
+    background-color: rgba(207, 207, 207, 0.251);
+    font-weight: bold;
+}
+
